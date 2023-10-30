@@ -10,3 +10,11 @@ div.green{
   background-color: #00e165;
   border: #006cfa 1px solid;
 }
+
+section{
+  margin-bottom: 3rem;
+}
+
+div.padding-2{
+  padding: 2rem;
+}
