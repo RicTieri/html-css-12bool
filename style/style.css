@@ -1,0 +1,12 @@
+.row > div{
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  background-color: #006cfa;
+  border: white 1px solid;
+}
+
+div.green{
+  background-color: #00e165;
+  border: #006cfa 1px solid;
+}
